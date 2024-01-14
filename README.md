@@ -2,6 +2,12 @@
 
 This is a simple Dice Rolling Simulator implemented in **Python using the Tkinter library** for the GUI.
 
+<video width="320" height="240" controls>
+  <source src="./FRAS Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## 🧐 Overview
 
 The **Dice Rolling Simulator** is a fun application that simulates rolling a six-sided dice. Each time the user clicks the **"Roll the Dice"** button, a random number between 1 and 6 is generated, and the corresponding image of a dice face is displayed on the screen. This provides a visual representation of the dice roll and adds an element of excitement to the simulation.
