@@ -2,7 +2,7 @@
 
 This is a simple Dice Rolling Simulator implemented in **Python using the Tkinter library** for the GUI.
 
-<img src="Video.gif" alt="GIF Title" width="400" height="300">
+<img align="center" src="Video.gif" alt="GIF Title" width="1000" height="500">
 
 
 
