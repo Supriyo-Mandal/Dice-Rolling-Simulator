@@ -2,10 +2,8 @@
 
 This is a simple Dice Rolling Simulator implemented in **Python using the Tkinter library** for the GUI.
 
-<video width="320" height="240" controls>
-  <source src="./FRAS Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="Video.gif" alt="GIF Title" width="400" height="300">
+
 
 
 ## 🧐 Overview
